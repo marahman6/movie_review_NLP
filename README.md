@@ -1,1 +1,1 @@
-# movie_review_NLP
+# Sentiment Analysis of IMDb data
